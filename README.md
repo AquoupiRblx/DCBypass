@@ -8,7 +8,7 @@ A working Double Counter Bypasser with a 98% success rate.
 
 ### Windows
 If you want to download the Windows version, [Click Here](https://github.com/AquoupiRblx/DCBypass/releases/download/DCBypassWindows/DCBypassWindows.exe)  
-Or go to the [Windows Releases Page](https://github.com/AquoupiRblx/DCBypass/releases/download/DCBypassWindows)
+Or go to the [Windows Releases Page](https://github.com/AquoupiRblx/DCBypass/releases/tag/DCBypassWindows)
 
 ### Android
 1. Download the Termux app if you don’t have it already by clicking [Here](hyperlink)
