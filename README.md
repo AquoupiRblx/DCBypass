@@ -11,7 +11,7 @@ If you want to download the Windows version, [Click Here](https://github.com/Aqu
 Or go to the [Windows Releases Page](https://github.com/AquoupiRblx/DCBypass/releases/tag/DCBypassWindows)
 
 ### Android
-1. Download the Termux app if you don’t have it already by clicking [Here](https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1+github-debug_arm64-v8a.apk)
+1. Download the Termux app if you don’t have it download right now by clicking [Here](https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1+github-debug_arm64-v8a.apk)
 2. Download the file by clicking [Here](https://github.com/AquoupiRblx/DCBypass/releases/download/DCBypassAndroid/DCBypassAndroid) or by opening the [Android Releases Page](https://github.com/AquoupiRblx/DCBypass/releases/tag/DCBypassAndroid)
 3. Open the Termux app
 4. Copy and run the following commands:
